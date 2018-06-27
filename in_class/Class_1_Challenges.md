@@ -17,12 +17,9 @@ A more complicated version of this method would involve storing the person's bir
 
 Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle. 
 
+
+
 ### Challenge 3
-
-Write a Python class named Rectangle constructed by a length and width and a method which will compute the area of a rectangle.
-
-
-### Challenge 4
 
 Define a class which has at least two methods:
 getString: to get a string from console input
@@ -34,7 +31,7 @@ Use __init__ method to construct some parameters
 
 
 
-### Challenge 5
+### Challenge 4
 
 __Student Class__  
 Start with your program from Person Class.
@@ -47,7 +44,7 @@ Create a Student object, and prove that you have used inheritance correctly.
 * Set some attribute values for the student, that are only coded in the Student class.
 * Print the values for all of these attributes.
 
-### Challenge 6
+### Challenge 5
 
 Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
 
@@ -56,7 +53,7 @@ Hints:
 To override a method in super class, we can define a method with the same name in the super class.
 
 
-### Challenge 7
+### Challenge 6
 
 Define a class Person and its two child classes: Male and Female. All classes have a method "getGender" which can print "Male" for Male class and "Female" for Female class.
 
@@ -65,7 +62,7 @@ Use Subclass(Parentclass) to define a child class.
 
 
 
-### Challenge 8
+### Challenge 7
 
 Write a Python program to convert an integer to a roman numeral.
 
