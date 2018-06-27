@@ -61,8 +61,25 @@ Hints:
 Use Subclass(Parentclass) to define a child class.
 
 
-
 ### Challenge 7
+
+Define a class GameMachine that has must be initialized with one object variable: and coins (int)
+
+The GameMachine has and __init__ and __repr__ function
+
+It has the following methods:
+
+1. play_game: Allows the user to play of the games below (call one of the other functions). Decrements coins by one each time a game is played. Once there are no more coins, the user can no longer play.
+
+1. guessing_game: This generables a random number from 1-20. It keeps asking the user to guess the number until the users guesses correctly.
+
+2. rps: (Rock paper scissors): Print "Rock, Paper, Scissors, Shoot", and asks the user to print one of the three. It then compares the user's choice to its own choice and declares a winner.
+
+3. Another mini-game of your creation
+
+
+
+### Challenge 8
 
 Write a Python program to convert an integer to a roman numeral.
 
